@@ -1,0 +1,13 @@
+{
+    "hello":"Hello",
+    "account_info":"Account infomation",
+    "temporary_residence_declaration":"Temporary residence declaration",
+    "change_Password": "Change Password",
+    "personal":"Personal",
+    "Setting":"Settings",
+    "home_ucf":"Home",
+    "profile_ucf":"Profile",
+    "tenant_details":"Tenant Details",
+    "complain":"Complain",
+    "report":"Report"
+}
